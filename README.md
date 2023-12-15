@@ -1,4 +1,4 @@
-# NOTE: This is a clone of the original PIPNet repository from [@manucordova](https://github.com/manucordova) found [here](https://github.com/manucordova/PIPNet).
+### NOTE: This is a clone of the original PIPNet repository from [@manucordova](https://github.com/manucordova) found [here](https://github.com/manucordova/PIPNet).
 
 # PIPNet: Pure Isotropic Proton NMR Spectra in Solids using Deep Learning
 
